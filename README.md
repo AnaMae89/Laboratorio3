@@ -1,5 +1,5 @@
 # Laboratorio3PHP
- Practica PHP,JS,BBDD,HTML,CSS
+ Practica PHP,JS,BBDD,HTML,CSS se proporciona la creacion de la tabla y algunos registros.
 
 Crearemos un formulario de alta a una página web, una base de datos con una tabla y los campos necesarios para guardar la información y un script PHP que valide los datos, los guarde en dicha tabla y permita su consulta.
 
