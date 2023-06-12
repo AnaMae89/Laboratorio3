@@ -41,7 +41,7 @@
          if ($filas>0)
             {
             
-            echo '<script>alert("Usuario o Password Incorrecto, vuelva a intentarlo")</script>';
+            echo '<script>alert("El email introducido ya esta registrado, vuelva a intentarlo")</script>';
             echo "<script>window.location.replace('http://localhost/Laboratorio3/index.php')</script>";
             }
             else
